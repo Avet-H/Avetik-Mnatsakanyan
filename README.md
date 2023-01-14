@@ -1,4 +1,5 @@
-### Data Analysis !!! 
+# Data Analysis Portfolio 
+
 Hi! My name is Avetik Mnatsakanyan and with this webpage, I'm presenting to you some of my technical skills. With a solid academic background in economics, econometrics, and statistics I have more than 5 years of experience in data analysis, data management, data cleaning and visualization, survey design, and data modeling.  
 
 ### Power BI projects 
