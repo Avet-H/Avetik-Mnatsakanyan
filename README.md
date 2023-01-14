@@ -1,6 +1,14 @@
   <html>
+  <head>
+  <style>
+  img {
+  width: 60%;
+  height: auto;
+}
+  </style>
+  </head>
+  
   <body style="background-color:black">
-
 
 
 <h1 style = "color:white"> Data Analysis Portfolio </h1>
