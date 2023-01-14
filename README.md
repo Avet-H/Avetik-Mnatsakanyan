@@ -10,7 +10,7 @@ The projects listed in this section are developed using Power BI desktop (click 
 ![main](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide1.PNG)
 ![Shares](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide2.PNG)
 ![Cumulative](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide3.PNG)
-![Pareto](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide4.PNG)
+![Pareto](https://github.com/Avet-H/Avet/blob/main/Images/Slide4.PNG?raw=true)
 ![Daily](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide5.PNG)
 ![Time Intelligence](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide6.PNG)
 
