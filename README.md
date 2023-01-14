@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    </head>
   <body style="background-color:black">
 
 
@@ -43,4 +39,4 @@ The projects listed in this section are developed using Power BI desktop (click 
 - Tableau projects
 
   </body>
-</html>
+
