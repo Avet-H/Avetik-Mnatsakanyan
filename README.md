@@ -51,10 +51,7 @@
 ![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true)
 
 
-Tomoroow I'll add also examples of:
-- R projects
-- STATA projects
-- Tableau projects
+<p style = "color:white"> Next to come examples of: R projects, STATA projects,Tableau projects
 
   </body>
 <html>
