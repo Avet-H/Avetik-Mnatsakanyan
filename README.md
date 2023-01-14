@@ -2,8 +2,9 @@
   <head>
   <style>
   div {
-  width: 80%;
+  width: 90%;
   height: auto;
+   align: center;
 }
   </style>
   </head>
