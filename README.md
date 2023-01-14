@@ -1,8 +1,8 @@
   <html>
   <head>
   <style>
-  img {
-  width: 60%;
+  span {
+  width: 80%;
   height: auto;
 }
   </style>
@@ -21,6 +21,7 @@
  <h3 style = "color:white">1. Contoso_DAXexamples </h3>
  <p style = "color:white">Data Analytics Expression is a powerful tool that can be used to generate more complex measures and calculated column for dynamic vizualizations. This project is developed using the "Contoso" sample data provided by microsoft and shows some of commonly used calculations with DAX.</p>
 
+  <span>
     <img title="main" alt="pic1" src="https://github.com/Avet-H/Avet-H/blob/main/Images/Slide1.PNG?raw=true">
    
     <img title="share" alt="pic2" src="https://github.com/Avet-H/Avet-H/blob/main/Images/Slide2.PNG?raw=true">
@@ -32,6 +33,7 @@
     <img title="daily" alt="pic5" src="https://github.com/Avet-H/Avet-H/blob/main/Images/Slide5.PNG?raw=true">
    
     <img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/Slide6.PNG?raw=true">
+  </span>
     
 ![Shares](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide2.PNG?raw=true)
 ![Cumulative](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide3.PNG?raw=true)
