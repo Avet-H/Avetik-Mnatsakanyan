@@ -3,17 +3,18 @@
 
 
 
-# Data Analysis Portfolio 
+    <h1> Data Analysis Portfolio </h1>
 
-Hi! My name is Avetik Mnatsakanyan and with this webpage, I'm presenting to you some of my technical skills. With a solid academic background in economics, econometrics, and statistics I have more than 5 years of experience in data analysis, data management, data cleaning and visualization, survey design, and data modeling.  
+<p style = "color:white">Hi! My name is Avetik Mnatsakanyan and with this webpage, I'm presenting to you some of my technical skills. With a solid academic background in economics, econometrics, and statistics I have more than 5 years of experience in data analysis, data management, data cleaning and visualization, survey design, and data modeling.  </p>
 
-### Power BI projects 
-The projects listed in this section are developed using Power BI desktop (click on title to access .pbix files in GitHub) 
+<h2> Power BI projects </h2>
+<p style = "color:white">The projects listed in this section are developed using Power BI desktop (click on title to access .pbix files in GitHub) </p>
 
 ### 1. *Contoso_DAXexamples* 
 #### Data Analytics Expression is a powerful tool that can be used to generate more complex measures and calculated column for dynamic vizualizations. This project is developed using the "Contoso" sample data provided by microsoft and shows some of commonly used calculations with DAX.
 
-![main](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide1.PNG?raw=true)
+    <img title="main" alt="home" src="https://github.com/Avet-H/Avet-H/blob/main/Images/Slide1.PNG?raw=true">
+    
 ![Shares](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide2.PNG?raw=true)
 ![Cumulative](https://github.com/Avet-H/Avet-H/blob/main/Images/Slide3.PNG?raw=true)
 ![Pareto](https://github.com/Avet-H/Avet/blob/main/Images/Slide4.PNG?raw=true)
