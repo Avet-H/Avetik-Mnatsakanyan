@@ -91,7 +91,7 @@ Dark Blue #0C0064
    <h3> 2. Data Manipulation and output table calculation </h3>
  <p> I used STATA as a data analitical tool in scope of AGRIS project implemented by FAO with ARMSTAT. Since the reporting tool for the organization was Excel, my task was to develop STATA do.files that will import data,reshape ,run some validation rulles, make imputations if needed, and import the generated final output tables directly into Excel spreadsheet. To see the full examples available click  <a href="https://github.com/Avet-H/Stata/tree/main/agris">here </a> </p>
   
-<img title="Agris Project" alt="agris" src="https://github.com/Avet-H/Avetik_Portfolio/blob/main/Images/Image_agris.JPG">
+<img title="Agris Project" alt="agris" src="https://github.com/Avet-H/Avetik_Portfolio/blob/main/Images/Image_agris.JPG?raw=true">
   
   </body>
 <html>
