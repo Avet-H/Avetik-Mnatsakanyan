@@ -4,11 +4,7 @@
     body{
     color: #233C6F;}
     
-  div {
-  width: 50%;
-  height: auto;
-   align: center;
-}
+ 
   </style>
   </head>
   
