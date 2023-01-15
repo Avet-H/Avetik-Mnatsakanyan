@@ -11,7 +11,7 @@ Dark Blue #0C0064
           background-color:#F3AE03;
           }
           
-      h2, h1 {
+      h2{
       color:#620210;
       }
       
@@ -21,7 +21,7 @@ Dark Blue #0C0064
     </style>
   </head>
   
-  <body>
+<body>
 
 
 <h1> Data Analysis example projects with PowerBI, R, Stata, Tableau</h1>
