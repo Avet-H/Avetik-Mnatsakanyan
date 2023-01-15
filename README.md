@@ -2,7 +2,7 @@
   <head>
   <style>
   div {
-  width: 90%;
+  width: 50%;
   height: auto;
    align: center;
 }
