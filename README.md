@@ -77,8 +77,10 @@ Dark Blue #0C0064
     
  <!-- ![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true) -->
 
-
-<p> Next to come examples of: R projects, STATA projects,Tableau projects
+<br>
+  <h2> STATA projects</h2>
+  <h3> 1. Inferential and causal analysis</h3>
+<p> I have used Stata for economic estimations during my both graduate programs: at ATC,Yerevan,Armenia and at UCDavis,CA,US. AS an example, I present one of the projects completed during master program at UCDavis where we were trying to replicate econometric papers. We used Jupyter notebook with Stata to present both discussions and calculation in one place. The screenshot presented below is a part of the project where we replicated the <a href=""> Labor Supply and the Value of Non-Work Time <a> article by Alexandre Mas and Amanda Pallais. Click <a href="">here </a> to access the full Jupyter file 
 
   </body>
 <html>
