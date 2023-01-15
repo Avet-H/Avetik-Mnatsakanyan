@@ -53,8 +53,8 @@
     
       <img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/GDP.JPG?raw=true">
     
-![Billionaires2022](https://github.com/Avet-H/Avet-H/blob/main/Images/Billionaires.JPG?raw=true)
-![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/GDP.JPG?raw=true)
+ <!--  ![Billionaires2022](https://github.com/Avet-H/Avet-H/blob/main/Images/Billionaires.JPG?raw=true)
+![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/GDP.JPG?raw=true) -->
 
 
 <a href="https://github.com/Avet-H/PowerBI/blob/main/NBA%20visuals.pbix"> <h3 style = "color:white">  3. NBA visual </h3> </a>
@@ -62,7 +62,7 @@
 
      <img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true">
     
-![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true)
+ <!-- ![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true) -->
 
 
 <p style = "color:white"> Next to come examples of: R projects, STATA projects,Tableau projects
