@@ -1,6 +1,9 @@
   <html>
   <head>
   <style>
+    body{
+    color: #233C6F;}
+    
   div {
   width: 50%;
   height: auto;
@@ -14,7 +17,7 @@
 
 <h1 style = "color:#233C6F"> Data Analysis Portfolio </h1>
 
-<p style = "color:white">Hi! My name is Avetik Mnatsakanyan and with this webpage, I'm presenting to you some of my technical skills. With a solid academic background in economics, econometrics, and statistics I have more than 5 years of experience in data analysis, data management, data cleaning and visualization, survey design, and data modeling.  </p>
+<p> Hi! My name is Avetik Mnatsakanyan and with this webpage, I'm presenting to you some of my technical skills. With a solid academic background in economics, econometrics, and statistics I have more than 5 years of experience in data analysis, data management, data cleaning and visualization, survey design, and data modeling.  </p>
 
 <h2 style = "color:#233C6F">  Power BI projects </h2>
 <p style = "color:white">The projects listed in this section are developed using Power BI desktop (click on titles to access .pbix files in GitHub) </p>
