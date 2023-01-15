@@ -1,26 +1,26 @@
   <html>
   <head>
   
-    <!--
+<!--
 Yellow #F3AE03
 Mulberry #620210
 Dark Blue #0C0064
 -->
-  <style>
+<style>
       body{
           color: #0C0064;
           background-color:#F3AE03;
           }
-          
+
       h2{
       color:#620210;
       text-align: center;
       }
-      
+
       h3{
       color:#0C0064;
        }
-    </style>
+</style>
   </head>
   
 <body>
@@ -84,9 +84,14 @@ Dark Blue #0C0064
   <hr style = "color:white;size:20;align:center;">
   <h2> STATA projects</h2>
   <h3> 1. Inferential and causal analysis</h3>
-<p> I have used Stata for economic estimations during my both graduate programs: at ATC,Yerevan,Armenia and at UCDavis,CA,US. AS an example, I present one of the projects completed during master program at UCDavis where we were trying to replicate econometric papers. We used Jupyter notebook with Stata to present both discussions and calculation in one place. The screenshot presented below is a part of the project where we replicated the <a href="https://github.com/Avet-H/Stata/blob/main/Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time_original%20article.pdf"> "Labor Supply and the Value of Non-Work Time" <a> article by Alexandre Mas and Amanda Pallais. Click <a href="https://github.com/Avet-H/Stata/blob/main/Replication_Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time.ipynb">here </a> to access the full Jupyter file. </p>
+<p> I have used Stata for economic estimations during my both graduate programs: at ATC,Yerevan,Armenia and at UCDavis,CA,US. AS an example, I present one of the projects completed during master program at UCDavis where we were trying to replicate econometric papers. We used Jupyter notebook with Stata to present both discussions and calculation in one place. The screenshot presented below is a part of the project where we replicated the <a href="https://github.com/Avet-H/Stata/blob/main/Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time_original%20article.pdf"> "Labor Supply and the Value of Non-Work Time" </a> article by Alexandre Mas and Amanda Pallais. Click <a href="https://github.com/Avet-H/Stata/blob/main/Replication_Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time.ipynb">here </a> to access the full Jupyter file. </p>
 
 <img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/paper_jupiter.JPG?raw=true">
 
+   <h3> 2. Data Manipulation and output table calculation </h3>
+ <p> I used STATA as a data analitical tool in scope of AGRIS project implemented by FAO with ARMSTAT. Since the reporting tool for the organization was Excel, my task was to develop STATA do.files that will import data,reshape ,run some validation rulles, make imputations if needed, and import the generated final output tables directly into Excel spreadsheet. To see the full examples available click  <a> href="https://github.com/Avet-H/Stata/tree/main/agris">here</a> </p>
+  
+<img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/imagr_agris.JPG?raw=true">
+  
   </body>
 <html>
