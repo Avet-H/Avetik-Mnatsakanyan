@@ -9,7 +9,7 @@
   </style>
   </head>
   
-  <body style="background-color:black">
+  <body style="background-color:#F3AE03">
 
 
 <h1 style = "color:white"> Data Analysis Portfolio </h1>
@@ -17,7 +17,7 @@
 <p style = "color:white">Hi! My name is Avetik Mnatsakanyan and with this webpage, I'm presenting to you some of my technical skills. With a solid academic background in economics, econometrics, and statistics I have more than 5 years of experience in data analysis, data management, data cleaning and visualization, survey design, and data modeling.  </p>
 
 <h2 style = "color:white">  Power BI projects </h2>
-<p style = "color:white">The projects listed in this section are developed using Power BI desktop (click on title to access .pbix files in GitHub) </p>
+<p style = "color:white">The projects listed in this section are developed using Power BI desktop (click on titles to access .pbix files in GitHub) </p>
 
  <a href="https://github.com/Avet-H/PowerBI/blob/main/Contoso_DAX%20examples.pptx"> <h3 style = "color:white">1. Contoso_DAXexamples </h3> </a>
  <p style = "color:white">Data Analytics Expression is a powerful tool that can be used to generate more complex measures and calculated column for dynamic vizualizations. This project is developed using the "Contoso" sample data provided by microsoft and shows some of commonly used calculations with DAX.</p>
