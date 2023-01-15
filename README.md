@@ -80,7 +80,9 @@ Dark Blue #0C0064
 <br>
   <h2> STATA projects</h2>
   <h3> 1. Inferential and causal analysis</h3>
-<p> I have used Stata for economic estimations during my both graduate programs: at ATC,Yerevan,Armenia and at UCDavis,CA,US. AS an example, I present one of the projects completed during master program at UCDavis where we were trying to replicate econometric papers. We used Jupyter notebook with Stata to present both discussions and calculation in one place. The screenshot presented below is a part of the project where we replicated the <a href=""> Labor Supply and the Value of Non-Work Time <a> article by Alexandre Mas and Amanda Pallais. Click <a href="">here </a> to access the full Jupyter file 
+<p> I have used Stata for economic estimations during my both graduate programs: at ATC,Yerevan,Armenia and at UCDavis,CA,US. AS an example, I present one of the projects completed during master program at UCDavis where we were trying to replicate econometric papers. We used Jupyter notebook with Stata to present both discussions and calculation in one place. The screenshot presented below is a part of the project where we replicated the <a href="https://github.com/Avet-H/Stata/blob/main/Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time_original%20article.pdf"> "Labor Supply and the Value of Non-Work Time" <a> article by Alexandre Mas and Amanda Pallais. Click <a href="https://github.com/Avet-H/Stata/blob/main/Replication_Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time.ipynb">here </a> to access the full Jupyter file.
+
+<img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/paper_jupiter.JPG?raw=true">
 
   </body>
 <html>
