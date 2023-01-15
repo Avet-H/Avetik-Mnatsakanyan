@@ -63,9 +63,9 @@ Dark Blue #0C0064
 <a href="https://github.com/Avet-H/PowerBI/blob/main/Billionaires.pbix"> <h3>   2. Billionaire </h3> </a>
 <p> I've always been curious about wealth distribution across countries, industries, companies and even individuals. Here are some descriptive graphs and indicators that I developed based on the data published by Forbes about Billionaires at the end of 2022. In the same file, you can find a page report presenting GDP data from 2021 according to WorldBank data and compare those numbers to get an interesting insight. Apparently, if we sort countries by their GDP in ascending order and combine the GDPs of the first 165 countries we will get about $11.5 trillion which is approximately the same amount as 2490 billionaires' net worth together! </p>
 
-<img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/Billionaires.JPG?raw=true">
+<img title="Billionaire" alt="Billionaire" src="https://github.com/Avet-H/Avet-H/blob/main/Images/Billionaires.JPG?raw=true">
     
-<img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/GDP.JPG?raw=true">
+<img title="GDP" alt="GDP" src="https://github.com/Avet-H/Avet-H/blob/main/Images/GDP.JPG?raw=true">
     
  <!--  ![Billionaires2022](https://github.com/Avet-H/Avet-H/blob/main/Images/Billionaires.JPG?raw=true)
 ![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/GDP.JPG?raw=true) -->
@@ -74,7 +74,7 @@ Dark Blue #0C0064
 <a href="https://github.com/Avet-H/PowerBI/blob/main/NBA%20visuals.pbix"> <h3>  3. NBA visual </h3> </a>
 <p> Using some historical data from NBA I created the interesting vizual about shots and distances in 2010 - 2018 period. </p>
 
-<img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true">
+<img title="NBA vizuals" alt="NBA" src="https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true">
     
  <!-- ![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true) -->
 
@@ -86,12 +86,12 @@ Dark Blue #0C0064
   <h3> 1. Inferential and causal analysis</h3>
 <p> I have used Stata for economic estimations during my both graduate programs: at ATC,Yerevan,Armenia and at UCDavis,CA,US. AS an example, I present one of the projects completed during master program at UCDavis where we were trying to replicate econometric papers. We used Jupyter notebook with Stata to present both discussions and calculation in one place. The screenshot presented below is a part of the project where we replicated the <a href="https://github.com/Avet-H/Stata/blob/main/Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time_original%20article.pdf"> "Labor Supply and the Value of Non-Work Time" </a> article by Alexandre Mas and Amanda Pallais. Click <a href="https://github.com/Avet-H/Stata/blob/main/Replication_Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time.ipynb">here </a> to access the full Jupyter file. </p>
 
-<img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/paper_jupiter.JPG?raw=true">
+<img title="Paper replication" alt="paper_Jup" src="https://github.com/Avet-H/Avet-H/blob/main/Images/paper_jupiter.JPG?raw=true">
 
    <h3> 2. Data Manipulation and output table calculation </h3>
  <p> I used STATA as a data analitical tool in scope of AGRIS project implemented by FAO with ARMSTAT. Since the reporting tool for the organization was Excel, my task was to develop STATA do.files that will import data,reshape ,run some validation rulles, make imputations if needed, and import the generated final output tables directly into Excel spreadsheet. To see the full examples available click  <a href="https://github.com/Avet-H/Stata/tree/main/agris">here </a> </p>
   
-<img title="time-intelligence" alt="pic6" src="https://github.com/Avet-H/Avet-H/blob/main/Images/imagr_agris.JPG?raw=true">
+<img title="Agris Project" alt="agris" src="https://github.com/Avet-H/Avetik_Portfolio/blob/main/Images/Image_agris.JPG">
   
   </body>
 <html>
