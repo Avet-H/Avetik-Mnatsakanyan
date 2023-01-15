@@ -31,9 +31,7 @@ Dark Blue #0C0064
 <p style="font-family:courier;font-size:120%;color:#233C6F;"> Hi! My name is Avetik Mnatsakanyan. <br>
  I am a data analyst with a solid academic background in economics, econometrics, and statistics.  I have more than 5 years of experience in different types of data analysis, data management, data cleaning and visualization, survey design, and data modeling.<br> <br>
   With this webpage, I'm presenting to you some of my technical skills.</p>
-<hr color="white"
-    size="20" 
-        align="center">
+<hr style = "color:white;size:20;align:center;">
   
 <h2 style = "color:#620210">  Power BI projects </h2>
 <p>The projects listed in this section are developed using Power BI desktop (click on titles to access .pbix files in GitHub) </p>
@@ -81,6 +79,9 @@ Dark Blue #0C0064
  <!-- ![GDP2021](https://github.com/Avet-H/Avet-H/blob/main/Images/NBA.JPG?raw=true) -->
 
 <br>
+
+  
+  <hr style = "color:white;size:20;align:center;">
   <h2> STATA projects</h2>
   <h3> 1. Inferential and causal analysis</h3>
 <p> I have used Stata for economic estimations during my both graduate programs: at ATC,Yerevan,Armenia and at UCDavis,CA,US. AS an example, I present one of the projects completed during master program at UCDavis where we were trying to replicate econometric papers. We used Jupyter notebook with Stata to present both discussions and calculation in one place. The screenshot presented below is a part of the project where we replicated the <a href="https://github.com/Avet-H/Stata/blob/main/Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time_original%20article.pdf"> "Labor Supply and the Value of Non-Work Time" <a> article by Alexandre Mas and Amanda Pallais. Click <a href="https://github.com/Avet-H/Stata/blob/main/Replication_Labor%20Supply%20and%20the%20Value%20of%20Non-Work%20Time.ipynb">here </a> to access the full Jupyter file. </p>
