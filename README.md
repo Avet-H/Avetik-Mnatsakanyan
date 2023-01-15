@@ -29,8 +29,7 @@ Dark Blue #0C0064
 <h1> Data Analysis example projects with PowerBI, R, Stata, Tableau</h1>
 
 <p style="font-family:courier;font-size:120%;"> Hi! My name is Avetik Mnatsakanyan. <br>
- I am a data analyst with a solid academic background in economics, econometrics, and statistics. <br>
- I have more than 5 years of experience in different types of data analysis, data management, data cleaning and visualization, survey design, and data modeling.<br>
+ I am a data analyst with a solid academic background in economics, econometrics, and statistics.  I have more than 5 years of experience in different types of data analysis, data management, data cleaning and visualization, survey design, and data modeling.<br> <br>
   With this webpage, I'm presenting to you some of my technical skills.</p>
 
 <h2 style = "color:#620210">  Power BI projects </h2>
