@@ -1,25 +1,30 @@
   <html>
   <head>
   <style>
+    <!--
+Yellow #F3AE03
+Mulberry #620210
+Dark Blue #0C0064
+-->>
       body{
           color: #233C6F;
           background-color:#F3AE03;
           }
           
-      h2{
+      h2, h1 {
       color:#620210;
       }
       
       h3{
       color:#0C0064;
        }
-  </style>
+    </style>
   </head>
   
   <body>
 
 
-<h1 style = "color:#620210"> Data Analysis example projects with PowerBI, R, Stata, Tableau</h1>
+<h1> Data Analysis example projects with PowerBI, R, Stata, Tableau</h1>
 
 <p> Hi! My name is Avetik Mnatsakanyan and with this webpage, I'm presenting to you some of my technical skills. With a solid academic background in economics, econometrics, and statistics I have more than 5 years of experience in data analysis, data management, data cleaning and visualization, survey design, and data modeling.  </p>
 
