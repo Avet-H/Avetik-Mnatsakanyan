@@ -81,6 +81,9 @@ Dark Blue #0C0064
 <br>
 
   
+  
+  
+  
   <hr style = "color:white;size:20;align:center;">
   <h2> STATA projects</h2>
   <h3> 1. Inferential and causal analysis</h3>
@@ -93,6 +96,11 @@ Dark Blue #0C0064
   
 <img title="Agris Project" alt="agris" src="https://github.com/Avet-H/Avetik_Portfolio/blob/main/Images/Image_agris.JPG?raw=true">
   
+  
+  
+  
+  
+    <hr style = "color:white;size:20;align:center;">
   <h2> R projects</h2>
   <h3> 1. Principal Component Analysis (PCA) </h3>
  <p>In this project I show how we can analyze our large dataset by using only 2 dimensions(principal components) of aggregated data as they represent 95% of variabilities. That is, dimensions of data are reduced to 2 while keeping the 95% information and variations of actual data. Thus, we can get an interesting insight about yogurt market and positions of brands in the market with respect to the product features using principal components as shown below. Click <a href="https://github.com/Avet-H/R.git">here</a> to access R.markdown files. </p>
