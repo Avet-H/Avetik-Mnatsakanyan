@@ -8,8 +8,8 @@ Dark Blue #0C0064
 -->
 <style>
       body{
-          color: #FCF5E4;
-          background-color:#F3AE03;
+          color: black;
+          background-color:#FCF5E4;
           }
 
       h2{
