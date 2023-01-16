@@ -13,7 +13,7 @@ Dark Blue #0C0064
           }
 
       h2{
-      color:#620210;
+      color:#780216;
       text-align: center;
       }
 
