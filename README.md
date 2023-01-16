@@ -92,7 +92,7 @@ Dark Blue #0C0064
 <img title="Paper replication" alt="paper_Jup" src="https://github.com/Avet-H/Avet-H/blob/main/Images/paper_jupiter.JPG?raw=true">
 
    <h3> 2. Data Manipulation and output table calculation </h3>
- <p> I used STATA as a data analitical tool in scope of AGRIS project implemented by FAO with ARMSTAT. Since the reporting tool for the organization was Excel, my task was to develop STATA do.files that will import data,reshape ,run some validation rulles, make imputations if needed, and import the generated final output tables directly into Excel spreadsheet. To see the full examples available click  <a href="https://github.com/Avet-H/Stata/tree/main/agris">here </a> </p>
+ <p> I used STATA as a data analytical tool in scope of AGRIS project implemented by FAO with ARMSTAT. Since the reporting tool for the organization was Excel, my task was to develop STATA do.files that will import data,reshape ,run some validation rulles, make imputations if needed, and import the generated final output tables directly into Excel spreadsheet. To see the full examples available click  <a href="https://github.com/Avet-H/Stata/tree/main/agris">here </a> </p>
   
 <img title="Agris Project" alt="agris" src="https://github.com/Avet-H/Avetik_Portfolio/blob/main/Images/Image_agris.JPG?raw=true">
   
@@ -103,7 +103,7 @@ Dark Blue #0C0064
     <hr style = "color:white;size:20;align:center;">
   <h2> R projects</h2>
   <h3> 1. Principal Component Analysis (PCA) </h3>
- <p>In this project I show how we can analyze our large dataset by using only 2 dimensions(principal components) of aggregated data as they represent 95% of variabilities. That is, dimensions of data are reduced to 2 while keeping the 95% information and variations of actual data. Thus, we can get an interesting insight about yogurt market and positions of brands in the market with respect to the product features using principal components as shown below. Click <a href="https://github.com/Avet-H/R.git">here</a> to access R.markdown files. </p>
+ <p>In this project I show how we can analyze our large dataset by using only 2 dimensions(principal components) of aggregated data as they represent 95% of variabilities. That is, dimensions of data are reduced to 2 while keeping the 95% information and variations of actual data. Thus, we can get an interesting insight about yogurt market and positions of brands in the market with respect to the product features using principal components as shown below. Click <a href="https://github.com/Avet-H/R.git">here</a> to access the R.markdown file. </p>
  
  <img title="PCA image" alt="PCA image" src="https://github.com/Avet-H/Avetik_Portfolio/blob/main/Images/PCA image.JPG?raw=true">
   
