@@ -8,7 +8,7 @@ Dark Blue #0C0064
 -->
 <style>
       body{
-          color: #620210;
+          color: #4B010D;
           background-color:#FCF5E4;
           }
 
